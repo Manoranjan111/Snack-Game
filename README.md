@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/snack-game.git
+git clone https://github.com/Manoranjan111/Snack-Game.git
 Navigate to the project directory:
 
 bash
